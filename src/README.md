@@ -1,44 +1,40 @@
 ---
 home: true
+bgImage: /images/forien.jpg
 layout: Blog
 icon: house
-title: Blog Home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+title: Home
+heroImage: 
 heroText: A Blog of Pason
-tagline: To Try, To Feel
+actionText: Get Started
+tagline: 努力した人は皆戰士だ。
 heroFullScreen: true
 projects:
-  - icon: folder-open
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
+  - icon: video
+    name: Animation
+    desc: A!C!G!赛高！
+    link: /posts/animation/
 
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
 
   - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
+    name: Book
+    desc: Thoughts about books I've read
+    link: /posts/book/
 
-  - icon: newspaper
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
+  - icon: book-open
+    name: diary
+    desc: daily life
+    link: /posts/diary/
 
-  - icon: user-group
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
+  - icon: gamepad
+    name: Game
+    desc: Something I learned from game
+    link: /posts/game/
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: custom item
-    desc: Detailed description of this custom item
-    link: https://link.to.your.friend
+  - icon: film
+    name: Movies
+    desc: Those movies I've watched
+    link: /posts/movie/
 
-footer: customize your footer text
+footer: “勇者の伝 には何が かれているの？”“ただの平凡な日常の物、それだけだ。”
 ---
-
-This is a blog home page demo.

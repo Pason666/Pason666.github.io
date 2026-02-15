@@ -7,11 +7,14 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Pason",
+    url: "https://github.com/Pason666",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  copyright: "Copyright © 2026 Mr.Hope",
+
+  logoDark: "/sleep.png",
+  logo: "/morning.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -37,44 +40,45 @@ export default hopeTheme({
   },
 
   blog: {
-    description: "A FrontEnd programmer",
+    name: "Pason",
+    description: "好想开摆啊",
     intro: "/intro.html",
     medias: {
-      Baidu: "https://example.com",
-      BiliBili: "https://example.com",
-      Bitbucket: "https://example.com",
-      Dingding: "https://example.com",
-      Discord: "https://example.com",
-      Dribbble: "https://example.com",
-      Email: "mailto:info@example.com",
-      Evernote: "https://example.com",
-      Facebook: "https://example.com",
-      Flipboard: "https://example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
-      Gitlab: "https://example.com",
-      Gmail: "mailto:info@example.com",
-      Instagram: "https://example.com",
-      Lark: "https://example.com",
-      Lines: "https://example.com",
-      Linkedin: "https://example.com",
-      Pinterest: "https://example.com",
-      Pocket: "https://example.com",
-      QQ: "https://example.com",
-      Qzone: "https://example.com",
-      Reddit: "https://example.com",
-      Rss: "https://example.com",
-      Steam: "https://example.com",
-      Twitter: "https://example.com",
-      Wechat: "https://example.com",
-      Weibo: "https://example.com",
-      Whatsapp: "https://example.com",
-      Youtube: "https://example.com",
-      Zhihu: "https://example.com",
-      VuePressThemeHope: {
-        icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
-      },
+      // Baidu: "https://example.com",
+      BiliBili: "https://space.bilibili.com/1982847516?spm_id_from=333.1007.0.0",
+      // Bitbucket: "https://example.com",
+      // Dingding: "https://example.com",
+      // Discord: "https://example.com",
+      // Dribbble: "https://example.com",
+      Email: "mailto:110419260@qq.com",
+      // Evernote: "https://example.com",
+      // Facebook: "https://example.com",
+      // Flipboard: "https://example.com",
+      Gitee: "https://gitee.com/pason666",
+      GitHub: "https://github.com/Pason666",
+      // Gitlab: "https://example.com",
+      // Gmail: "mailto:info@example.com",
+      // Instagram: "https://example.com",
+      // Lark: "https://example.com",
+      // Lines: "https://example.com",
+      // Linkedin: "https://example.com",
+      // Pinterest: "https://example.com",
+      // Pocket: "https://example.com",
+      // QQ: "https://example.com",
+      // Qzone: "https://example.com",
+      // Reddit: "https://example.com",
+      // Rss: "https://example.com",
+      // Steam: "https://example.com",
+      // Twitter: "https://example.com",
+      // Wechat: "https://example.com",
+      // Weibo: "https://example.com",
+      // Whatsapp: "https://example.com",
+      // Youtube: "https://example.com",
+      // Zhihu: "https://example.com",
+      // VuePressThemeHope: {
+      //   icon: "https://theme-hope-assets.vuejs.press/logo.svg",
+      //   link: "https://theme-hope.vuejs.press",
+      // },
     },
   },
 
@@ -83,7 +87,7 @@ export default hopeTheme({
   },
 
   // enable it to preview all changes in time
-  // hotReload: true,
+  hotReload: true,
 
   // These features are enabled for demo, only preserve features you need here
   markdown: {
@@ -173,6 +177,19 @@ export default hopeTheme({
     icon: {
       prefix: "fa6-solid:",
     },
+    // notice: [
+    //   {
+    //     path: "/",
+    //     title: "Demo",
+    //     content: "This is a demo for the notice plugin.",
+    //     actions: [
+    //       {
+    //         text: "Primary Action",
+    //         link: "https://github.com/vuepress-theme-hope/vuepress-theme-hope",
+    //       },
+    //     ],
+    //   },
+    // ]
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
