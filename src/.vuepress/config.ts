@@ -6,8 +6,12 @@ export default defineUserConfig({
   base: "/",
 
   lang: "en-US",
-  title: "Blog Demo",
-  description: "A blog demo for vuepress-theme-hope",
+  title: "Blog",
+  description: "A blog of Pason",
+
+  head:[
+    ["link", { rel: "icon", href: "/dark.jpg" }],
+  ],
 
   theme,
 
