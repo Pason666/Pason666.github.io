@@ -36,5 +36,9 @@ projects:
     desc: Those movies I've watched
     link: /posts/movie/
 
+  # - icon: cloud
+  #   name: Dream
+  #   desc: 梦里不知身是客，一晌贪欢
+
 footer: “勇者の伝 には何が かれているの？”“ただの平凡な日常の物、それだけだ。”
 ---
